@@ -80,9 +80,10 @@ ZeroFit은 중소기업 전용 컨설팅을 위해 AI가 상위 1 ~ 4위 솔루�
 ##  ✨ 데모
 
 ## ⬇️ 클릭해서 영상 보기
+<p align="center">
 <a href="https://www.youtube.com/watch?v=644It25GVzI&t=5s">
-  <img img width="600" src="https://github.com/user-attachments/assets/040e29fb-211f-4f18-b1e7-9353b17d74b4" alt="프로젝트 데모 썸네일" >
-</a>
+  <img img width="864" src="https://github.com/user-attachments/assets/040e29fb-211f-4f18-b1e7-9353b17d74b4" alt="프로젝트 데모 썸네일" >
+</a></p>
 
 ---
 
